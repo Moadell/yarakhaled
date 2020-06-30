@@ -1,13 +1,13 @@
 {
   "main": {
     "name":"Yara Sayed",
-    "occupation":"Junior Computer Engineering Student",
+    "occupation":"Junior Mechanical Engineering Student",
     "description":"", 
     "image":"profilepic.jpg",
     "bio":"To obtain a position that will enable me to use my strong organizational skills, award-winning educational background, ability to work well with people, and make changes in the world.",
     "contactmessage":"This part is not right funcationally yet you can contact me directly through email.",
     "email": "Y.khalid@nu.edu.eg",
-    "phone": "00201153278160",
+    "phone": "+201153278160",
     "address":{
       "street":"1297, 38 St, 6 October",
       "city":"Giza, Egypt.",
@@ -47,14 +47,14 @@
       {
         "company":"Education and Technology Company",
         "title":"Intern Robotics and Electronics Engineer",
-        "years":"Dec 2019 - Present",
-        "description":"Developed the company strategy and settled on a promising acquisition strategy with the CEO."
+        "years":"2018",
+        "description":"The internship offered was a 3 months internship to learn more about robotics and make a graduation project by the end of the internship duration, then start teaching children with them."
       },
       {
-        "company":"Fufurn Company",
-        "title":"Intern Direct Sales Representative",
-        "years":"Dec 2019 - Present",
-        "description":"Developed the company strategy and settled on a promising acquisition strategy with the CEO."
+        "company":"NilePreneurs Initiative",
+        "title":"Intern Direct Sales Representative with Fufurn startup",
+        "years":"2020",
+        "description":"The internship offered was a 3 Months internship to the best 15 student from the students who attended their summer training to help the startups in the NilePenuers’ Incubator."
       }
     ],
     "skills":[
@@ -63,36 +63,16 @@
         "level":"60%"
       },
       {
-        "name":"MySQL",
+        "name":"SolidWorks Essentials",
         "level":"80%"
       },
       {
-        "name":"C++/OOP",
+        "name":"AutoCAD",
         "level":"50%"
       },
       {
         "name":"HTML/CSS",
         "level":"90%"
-      },
-      {
-        "name":"JavaScript",
-        "level":"80%"
-      },
-      {
-        "name":"NodeJs",
-        "level":"50%"
-      },
-      {
-        "name":"GIT",
-        "level":"50%"
-      },
-      {
-        "name":"Flask",
-        "level":"50%"
-      },
-      {
-        "name":"Arduino C",
-        "level":"70%"
       }
     ]
   },
