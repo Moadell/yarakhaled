@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yarakhaled/static/css/main.5facb584.chunk.css",
+    "main.js": "/yarakhaled/static/js/main.4655dd5f.chunk.js",
+    "main.js.map": "/yarakhaled/static/js/main.4655dd5f.chunk.js.map",
+    "runtime-main.js": "/yarakhaled/static/js/runtime-main.e369e516.js",
+    "runtime-main.js.map": "/yarakhaled/static/js/runtime-main.e369e516.js.map",
+    "static/js/2.eba5dd0e.chunk.js": "/yarakhaled/static/js/2.eba5dd0e.chunk.js",
+    "static/js/2.eba5dd0e.chunk.js.map": "/yarakhaled/static/js/2.eba5dd0e.chunk.js.map",
+    "index.html": "/yarakhaled/index.html",
+    "precache-manifest.ef983d9c66b13b13237b59a9dc16d633.js": "/yarakhaled/precache-manifest.ef983d9c66b13b13237b59a9dc16d633.js",
+    "service-worker.js": "/yarakhaled/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/yarakhaled/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.eba5dd0e.chunk.js.LICENSE.txt": "/yarakhaled/static/js/2.eba5dd0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e369e516.js",
+    "static/js/2.eba5dd0e.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.4655dd5f.chunk.js"
+  ]
+}

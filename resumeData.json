@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Yara Sayed",
+    "occupation":"Junior Computer Engineering Student",
+    "description":"", 
+    "image":"profilepic.jpg",
+    "bio":"To obtain a position that will enable me to use my strong organizational skills, award-winning educational background, ability to work well with people, and make changes in the world.",
+    "contactmessage":"This part is not right funcationally yet you can contact me directly through email.",
+    "email": "Y.khalid@nu.edu.eg",
+    "phone": "00201153278160",
+    "address":{
+      "street":"1297, 38 St, 6 October",
+      "city":"Giza, Egypt.",
+      "state":"",
+      "zip": "12566"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1soF8hkN9-IfCL19uqr-wOo9jgKNCq4Ml/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/yooyoo.khalid.3",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/yara-sayed-a035bb19b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/YaraKhalid",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am always trying to improve my self and develop new skills",
+    "education":[
+      {
+        "school":"Nile University",
+        "degree":"Bachelor Degree in Computer Engineering",
+        "graduated":"2018 : 2023",
+        "description":"Full Scholarship"
+      }
+    ],
+    "work":[
+      {
+        "company":"Education and Technology Company",
+        "title":"Intern Robotics and Electronics Engineer",
+        "years":"Dec 2019 - Present",
+        "description":"Developed the company strategy and settled on a promising acquisition strategy with the CEO."
+      },
+      {
+        "company":"Fufurn Company",
+        "title":"Intern Direct Sales Representative",
+        "years":"Dec 2019 - Present",
+        "description":"Developed the company strategy and settled on a promising acquisition strategy with the CEO."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      },
+      {
+        "name":"C++/OOP",
+        "level":"50%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"50%"
+      },
+      {
+        "name":"GIT",
+        "level":"50%"
+      },
+      {
+        "name":"Flask",
+        "level":"50%"
+      },
+      {
+        "name":"Arduino C",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Excellia",
+        "category":"Collage body website created using Reactjs and firebase",
+        "image":"Excellia.png",
+        "url":"https://excellia-4c9b1.web.app"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
